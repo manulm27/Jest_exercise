@@ -1,0 +1,17 @@
+{
+  "name": "jest_function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Manuel Martret",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
